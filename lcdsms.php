@@ -1,9 +1,9 @@
 <?php
-$username = "root";
-$password = "toor";
-$dbname = "texts";
-$tablename = "texts";
-$hostname = "25.61.133.224"; 
+$username = "";
+$password = "";
+$dbname = "";
+$tablename = "";
+$hostname = ""; 
  
 //##################### POST settings & MYSQL Connections #############
  
